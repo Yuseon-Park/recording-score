@@ -4,7 +4,11 @@ This website was created to store the recording collections.
 
 Website URL
 
-https://yuseon-park.github.io/recording-score/
+For more information, see <https://yuseon-park.github.io/recording-score/>.
+
+Video URL
+
+For more information, see <https://youtu.be/661KAhDDIBg>.
 
 ================================================================================
 
@@ -28,11 +32,6 @@ How to use
 
 ================================================================================
 
-Video URL
-
-https://youtu.be/661KAhDDIBg
-
-================================================================================
 Comments on archive content
 
 - index.html - file to show main content
@@ -43,4 +42,4 @@ Comments on archive content
 
 - main.css - different kinds of css, for all situations.
 
-- media - audio - media files would be played when user make mouse on hover on lyric
+- media - audio - media files would be played when user make mouse on hover on lyric.
